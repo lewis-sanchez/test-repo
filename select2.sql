@@ -7,3 +7,7 @@ SELECT 35;
 -- third comment
 
 -- fourth comment
+
+-- fifth comment
+
+-- sixth comment
